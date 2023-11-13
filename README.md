@@ -1,6 +1,6 @@
 # Information Retrieval - Google Maps API Crawler
 ## Preview
-
+![Screenshot](https://user-images.githubusercontent.com/81176492/282477401-e969d102-ea85-48ef-b55f-d6f479d4b191.jpg)
 
 ## Description
 This project is a part of the Information Retrieval course, aiming to enhance the search experience on Google Maps through a custom-built crawler using the Google Places API. Three unique features have been added to improve search functionality beyond what is available on the official Google Maps website:
