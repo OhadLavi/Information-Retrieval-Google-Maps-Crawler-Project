@@ -1,0 +1,103 @@
+<div class="spinner-container" *ngIf="isSearching">
+  <mat-progress-spinner class="spinner" color="accent" mode="indeterminate"></mat-progress-spinner>
+</div>
+<div class="mainWrapper">
+  <!-- <div class="no-results" *ngIf="showNoResultsMessage">
+    <b>Error!</b>  No search results found.
+  </div> -->
+  <div class="error-container" *ngIf="hasErrors() && !this.valid" >
+    <div class="error"><span style="font-weight: bold; color: #842029 !important">Error!</span> {{getCombinedError()}}</div>
+  </div>
+  <div class="container">
+    <form class="form-container" fxLayout="column">
+      <div class="full-width-row">
+        <div class="search-row">
+          <mat-form-field class="search-field">
+            <input matInput placeholder="Search Field" [(ngModel)]="searchString" name="searchString" type="search" class="text">
+          </mat-form-field>
+          <div class="button-group">
+            <button mat-raised-button color="primary" (click)="getPlaces()">Search</button>
+            <button mat-raised-button color="warn" (click)="clearForm()">Reset</button>
+          </div>
+        </div>
+      </div>
+      <div class="full-width-row">
+        <mat-form-field>
+          <mat-label>Rating From</mat-label>
+          <mat-select [(ngModel)]="from" name="from" (selectionChange)="onRatingFromChange()">
+            <mat-option *ngFor="let rating of rating_Values" [value]="rating">{{ rating }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Rating To</mat-label>
+          <mat-select [(ngModel)]="to" name="to" [disabled]="toDisabled">
+            <mat-option *ngFor="let rating of rating_Values_To" [value]="rating">{{ rating }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Opening Days</mat-label>
+          <mat-select [(ngModel)]="day" name="day">
+            <mat-option *ngFor="let day of week; index as i" [value]="i">{{ day }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Opening Hours</mat-label>
+          <mat-select [(ngModel)]="timeFrom.hours" name="timeFromHours">
+            <mat-option *ngFor="let hour of hours" [value]="hour">{{ hour }}</mat-option>
+          </mat-select>
+        </mat-form-field>       
+        <mat-form-field>
+          <mat-label>Opening Minutes</mat-label>
+          <mat-select [(ngModel)]="timeFrom.minutes" name="timeFromMinutes">
+            <mat-option *ngFor="let min of minutes" [value]="min">{{ min }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Closing Hours</mat-label>
+          <mat-select [(ngModel)]="timeTo.hours" name="timeToHours">
+            <mat-option *ngFor="let hour of hours" [value]="hour">{{ hour }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Closing Minutes</mat-label>
+          <mat-select [(ngModel)]="timeTo.minutes" name="timeToMinutes">
+            <mat-option *ngFor="let min of minutes" [value]="min">{{ min }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field class="search_reviews">
+          <mat-label>Minimum Reviews</mat-label>
+          <input matInput placeholder="Ex. 1000" type="number" min="0" [(ngModel)]="numberOfReviews" class="text">
+        </mat-form-field>
+      </div>
+    </form>
+  </div>
+  <div *ngIf="places.length > 0">
+    <div class="maps-container">
+      <div class="places-container">
+        <div class="places-wrapper">
+          <div class="place wrapper" *ngFor="let place of places; index as i;">
+            <div class="place-header">
+              <div class="wrapper-rating">
+                <div class="icon-wrapper star-icon star-color"></div>
+                <div style="display: inline-block" class="rating">{{place.rating}}</div>
+              </div>
+              <div (click)="savedPlace(i)" class="{{user_saves_place[i]? 'place-img saved': 'place-img'}}"></div>
+            </div>
+            <div class="place-name">{{place.name}}</div>
+            <div class="place-details">
+              <div class="icon-wrapper location-icon"></div>
+              <div class="address">{{place.address}}</div>
+              <div class="icon-wrapper website-icon" *ngIf="place.website_url"></div>
+              <a class="website" *ngIf="place.website_url" href="{{place.website_url}}">Visit Website</a>
+              <div class="icon-wrapper info-icon"></div>
+              <div class="review">Number of rates: {{place.amount_of_ratings}}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="map">
+        <div #mapContainer id="map"></div>
+      </div>
+    </div>
+  </div>
+</div>

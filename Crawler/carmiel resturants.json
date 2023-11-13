@@ -1,0 +1,1504 @@
+{
+    "search": {
+        "searchString": "carmiel resturants",
+        "filters": {
+            "rating_range": {
+                "from": 4,
+                "to": 5
+            },
+            "minimum_amount_of_ratings": 20,
+            "opening_hours": {
+                "day": 3,
+                "from": "1800",
+                "to": "2000"
+            }
+        }
+    },
+    "amount_of_places": 16,
+    "places": [
+        {
+            "place_id": "ChIJjfkLTtcxHBURUPhuAUIuz_I",
+            "rating": 4.7,
+            "name": "VIVINO - ויוינו כרמיאל",
+            "amount_of_ratings": 1414,
+            "address": "Ha-Kharoshet St 15, Karmiel, Israel",
+            "phone_number": "04-883-4070",
+            "maps_url": "https://maps.google.com/?cid=17496253938384435280",
+            "website_url": "https://www.vivino.co.il/carmiel",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 – 10:00 PM",
+                    "Tuesday: 12:00 – 10:00 PM",
+                    "Wednesday: 12:00 – 10:00 PM",
+                    "Thursday: 12:00 – 11:00 PM",
+                    "Friday: 12:00 – 11:00 PM",
+                    "Saturday: 12:00 – 11:00 PM",
+                    "Sunday: 12:00 – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.921698,
+                35.307921
+            ]
+        },
+        {
+            "place_id": "ChIJS12Ngy4zHBURd464DWP0PZc",
+            "rating": 4.8,
+            "name": "המקסיקן כרמיאל",
+            "amount_of_ratings": 21,
+            "address": "קניון לב, Morad ha-Gai St 100, Karmiel, Israel",
+            "maps_url": "https://maps.google.com/?cid=10898135379575606903",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 8:30 PM",
+                    "Tuesday: 11:00 AM – 8:30 PM",
+                    "Wednesday: 11:00 AM – 8:30 PM",
+                    "Thursday: 11:00 AM – 8:30 PM",
+                    "Friday: Closed",
+                    "Saturday: Closed",
+                    "Sunday: 11:00 AM – 8:30 PM"
+                ]
+            },
+            "location": [
+                32.9078458,
+                35.293955
+            ]
+        },
+        {
+            "place_id": "ChIJ3eEVi2MxHBUROY5bTmSBSKs",
+            "rating": 4.2,
+            "name": "קקאו - כרמיאל",
+            "amount_of_ratings": 702,
+            "address": "Ha-Kharoshet St 15, Karmiel, Israel",
+            "phone_number": "04-615-0595",
+            "maps_url": "https://maps.google.com/?cid=12342257046620180025",
+            "website_url": "https://israelbusinessguide.com/catalog/karmiel/kakao_karmiel--_/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 11:00 PM",
+                    "Tuesday: 8:30 AM – 11:00 PM",
+                    "Wednesday: 8:30 AM – 11:00 PM",
+                    "Thursday: 8:30 AM – 11:00 PM",
+                    "Friday: 8:00 AM – 12:00 AM",
+                    "Saturday: 9:00 AM – 11:00 PM",
+                    "Sunday: 8:30 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.92145819999999,
+                35.3077102
+            ]
+        },
+        {
+            "place_id": "ChIJ7eevsAoxHBUR0S4XUmQSjok",
+            "rating": 4.1,
+            "name": "Basarela",
+            "amount_of_ratings": 813,
+            "address": "Ma'ale Kamon St 5, Karmiel, Israel",
+            "phone_number": "053-710-2664",
+            "maps_url": "https://maps.google.com/?cid=9911880051972320977",
+            "website_url": "http://www.basarela.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 – 10:30 PM",
+                    "Tuesday: 12:00 – 10:30 PM",
+                    "Wednesday: 12:00 – 10:30 PM",
+                    "Thursday: 12:00 – 10:30 PM",
+                    "Friday: 12:00 – 10:30 PM",
+                    "Saturday: 12:00 – 10:30 PM",
+                    "Sunday: 12:00 – 10:30 PM"
+                ]
+            },
+            "location": [
+                32.9279876,
+                35.3261428
+            ]
+        },
+        {
+            "place_id": "ChIJ1S2iEyUzHBURmUfDqO6rkYw",
+            "rating": 4.7,
+            "name": "Yummies ice cream - כרמיאל",
+            "amount_of_ratings": 49,
+            "address": "Sderot Nesi'ei Israel 100/13, Karmiel, Israel",
+            "phone_number": "077-449-3729",
+            "maps_url": "https://maps.google.com/?cid=10129066078454892441",
+            "website_url": "https://yummieskarmiel.business.site/?utm_source=gmb&utm_medium=referral",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 PM – 12:00 AM",
+                    "Tuesday: 12:00 PM – 12:00 AM",
+                    "Wednesday: 12:00 PM – 12:00 AM",
+                    "Thursday: 12:00 PM – 12:00 AM",
+                    "Friday: Closed",
+                    "Saturday: Closed",
+                    "Sunday: 12:00 PM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.9086581,
+                35.293625
+            ]
+        },
+        {
+            "place_id": "ChIJfcb8W5MxHBURBDnzN09HIGs",
+            "rating": 4,
+            "name": "ג׳פניקה כרמיאל | JAPANIKA KARMIEL",
+            "amount_of_ratings": 1887,
+            "address": "Ma'ale Kamon St 5, Karmiel, Israel",
+            "phone_number": "03-723-6100",
+            "maps_url": "https://maps.google.com/?cid=7719248166879705348",
+            "website_url": "https://www.japanika.net/branch/%D7%9B%D7%A8%D7%9E%D7%99%D7%90%D7%9C/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 PM – 12:00 AM",
+                    "Tuesday: 12:00 PM – 12:00 AM",
+                    "Wednesday: 12:00 PM – 12:00 AM",
+                    "Thursday: 12:00 PM – 12:00 AM",
+                    "Friday: 12:00 PM – 12:00 AM",
+                    "Saturday: 12:00 PM – 12:00 AM",
+                    "Sunday: 12:00 PM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.9276114,
+                35.3260568
+            ]
+        },
+        {
+            "place_id": "ChIJ_bNNw3QxHBURsqMAFNfs9v0",
+            "rating": 4.3,
+            "name": "Burgus Burger Bar",
+            "amount_of_ratings": 1647,
+            "address": "ביג כרמיאל, מעלה כמון 2, כרמיאל, Israel",
+            "phone_number": "04-988-5050",
+            "maps_url": "https://maps.google.com/?cid=18300074544364299186",
+            "website_url": "http://burgus.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 PM – 12:00 AM",
+                    "Tuesday: 12:00 PM – 12:00 AM",
+                    "Wednesday: 12:00 PM – 12:00 AM",
+                    "Thursday: 12:00 PM – 12:00 AM",
+                    "Friday: 12:00 PM – 12:00 AM",
+                    "Saturday: 12:00 PM – 12:00 AM",
+                    "Sunday: 9:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.926822,
+                35.32359599999999
+            ]
+        },
+        {
+            "place_id": "ChIJ6YpmdWQxHBURn9AKmSrr-Vg",
+            "rating": 4.4,
+            "name": "Tagalos",
+            "amount_of_ratings": 1876,
+            "address": "Ha-Kharoshet St 15, Karmiel, Israel",
+            "phone_number": "076-539-4469",
+            "maps_url": "https://maps.google.com/?cid=6411414112727388319",
+            "website_url": "https://www.karmieli.co.il/tagalos/%D7%AA%D7%A4%D7%A8%D7%99%D7%98/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 11:00 PM",
+                    "Tuesday: 11:00 AM – 11:00 PM",
+                    "Wednesday: 11:00 AM – 11:00 PM",
+                    "Thursday: 11:00 AM – 11:00 PM",
+                    "Friday: 10:00 AM – 11:00 PM",
+                    "Saturday: 9:00 AM – 11:00 PM",
+                    "Sunday: 11:00 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.9215183,
+                35.3073658
+            ]
+        },
+        {
+            "place_id": "ChIJMdrgCmQxHBURPxYZ8lOl470",
+            "rating": 4.2,
+            "name": "מסעדת ממן",
+            "amount_of_ratings": 34,
+            "address": "Ha-Kharoshet St 17, Karmiel, Israel",
+            "phone_number": "04-998-7048",
+            "maps_url": "https://maps.google.com/?cid=13682961872844297791",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1530"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 10:00 PM",
+                    "Tuesday: 10:00 AM – 10:00 PM",
+                    "Wednesday: 10:00 AM – 10:00 PM",
+                    "Thursday: 10:00 AM – 10:00 PM",
+                    "Friday: 10:00 AM – 3:30 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.92158790000001,
+                35.3083829
+            ]
+        },
+        {
+            "place_id": "ChIJQ-IG3XQxHBURk-decjkFhco",
+            "rating": 4.1,
+            "name": "Aroma Big Carmiel",
+            "amount_of_ratings": 2048,
+            "address": "ביג כרמיאל, Ma'ale Kamon St 2, Karmiel, 2165001, Israel",
+            "phone_number": "04-958-5828",
+            "maps_url": "https://maps.google.com/?cid=14593075911854057363",
+            "website_url": "https://israelbusinessguide.com/catalog/karmiel/aroma_big_carmiel/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0600"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 6:00 AM – 12:00 AM",
+                    "Tuesday: 6:00 AM – 12:00 AM",
+                    "Wednesday: 6:00 AM – 12:00 AM",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: 6:00 AM – 12:30 AM",
+                    "Sunday: 6:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.9270431,
+                35.3234351
+            ]
+        },
+        {
+            "place_id": "ChIJ0VQG3WrLHRURy2KaoXOogtY",
+            "rating": 4.1,
+            "name": "Indiana Bar and Grill",
+            "amount_of_ratings": 959,
+            "address": "כביש 85 כרמיאל-עכו (מתחם מנטה יער אחיהוד, Majd al-Krum, Israel",
+            "phone_number": "04-901-9191",
+            "maps_url": "https://maps.google.com/?cid=15457102085674918603",
+            "website_url": "http://www.indiana.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: Closed",
+                    "Tuesday: 5:00 – 11:00 PM",
+                    "Wednesday: 5:00 – 11:00 PM",
+                    "Thursday: 5:00 – 11:30 PM",
+                    "Friday: 12:00 – 11:30 PM",
+                    "Saturday: 12:00 – 11:30 PM",
+                    "Sunday: 12:00 – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.91429460000001,
+                35.1911814
+            ]
+        },
+        {
+            "place_id": "ChIJV3Sow_EwHBURcqrY1FYRKEY",
+            "rating": 4.3,
+            "name": "Big Carmiel",
+            "amount_of_ratings": 6549,
+            "address": "Ma'ale Kamon St 2, Karmiel, Israel",
+            "phone_number": "072-274-8888",
+            "maps_url": "https://maps.google.com/?cid=5055309646359210610",
+            "website_url": "http://www.bigcenters.co.il/index.aspx?id=4026",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:30 AM – 9:30 PM",
+                    "Tuesday: 9:30 AM – 9:30 PM",
+                    "Wednesday: 9:30 AM – 9:30 PM",
+                    "Thursday: 9:30 AM – 9:30 PM",
+                    "Friday: 9:00 AM – 3:00 PM",
+                    "Saturday: 11:00 AM – 11:00 PM",
+                    "Sunday: 9:30 AM – 9:30 PM"
+                ]
+            },
+            "location": [
+                32.9271698,
+                35.323513
+            ]
+        },
+        {
+            "place_id": "ChIJOd1l-1nIHRUR28No6REx0Go",
+            "rating": 4.3,
+            "name": "Siran Restaurant",
+            "amount_of_ratings": 392,
+            "address": "Ben Ami St 13-21, Acre, Israel",
+            "phone_number": "04-824-5444",
+            "maps_url": "https://maps.google.com/?cid=7696705716176339931",
+            "website_url": "https://israelbusinessguide.com/catalog/akko/siran_restaurant/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 12:00 AM",
+                    "Tuesday: 8:00 AM – 12:00 AM",
+                    "Wednesday: 8:00 AM – 12:00 AM",
+                    "Thursday: 8:00 AM – 12:00 AM",
+                    "Friday: 8:00 AM – 12:00 AM",
+                    "Saturday: 8:00 AM – 12:00 AM",
+                    "Sunday: 8:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.9277092,
+                35.07146910000001
+            ]
+        },
+        {
+            "place_id": "ChIJAb12w101HBURyC3VfeyYEmg",
+            "rating": 4.6,
+            "name": "miramar Restaurant",
+            "amount_of_ratings": 33,
+            "address": "سخنين المخرج الغربي، سخنين،، Sakhnin, Israel",
+            "phone_number": "04-883-4272",
+            "maps_url": "https://maps.google.com/?cid=7499224471016123848",
+            "website_url": "https://www.facebook.com/miramar177",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 11:45 PM",
+                    "Tuesday: 11:00 AM – 11:45 PM",
+                    "Wednesday: 11:00 AM – 11:45 PM",
+                    "Thursday: 11:00 AM – 11:45 PM",
+                    "Friday: 11:00 AM – 11:45 PM",
+                    "Saturday: 11:00 AM – 11:45 PM",
+                    "Sunday: 11:00 AM – 11:45 PM"
+                ]
+            },
+            "location": [
+                32.8655418,
+                35.2829047
+            ]
+        },
+        {
+            "place_id": "ChIJVVUo0YU2HBURLCQ5FllAUi4",
+            "rating": 4.2,
+            "name": "Dubai restaurant",
+            "amount_of_ratings": 2670,
+            "address": "805, Sakhnin, Israel",
+            "phone_number": "053-937-7453",
+            "maps_url": "https://maps.google.com/?cid=3337801025204069420",
+            "website_url": "http://dubai.rest.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 PM – 12:00 AM",
+                    "Tuesday: 12:00 PM – 12:00 AM",
+                    "Wednesday: 12:00 PM – 12:00 AM",
+                    "Thursday: 12:00 PM – 12:00 AM",
+                    "Friday: 12:00 PM – 12:00 AM",
+                    "Saturday: 12:00 PM – 12:00 AM",
+                    "Sunday: 12:00 PM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.86022150000001,
+                35.31146
+            ]
+        },
+        {
+            "place_id": "ChIJ91y4BW4zHBURRA9eEPZkF-k",
+            "rating": 4.7,
+            "name": "سيّد סייד sayid",
+            "amount_of_ratings": 44,
+            "address": "Eastern Entry 2, Majd al-Krum, Israel",
+            "phone_number": "054-298-0361",
+            "maps_url": "https://maps.google.com/?cid=16796004343300886340",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0600"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 6:00 AM – 12:00 AM",
+                    "Tuesday: 6:00 AM – 12:00 AM",
+                    "Wednesday: 6:00 AM – 12:00 AM",
+                    "Thursday: 6:00 AM – 12:00 AM",
+                    "Friday: 6:00 AM – 12:00 AM",
+                    "Saturday: 6:00 AM – 12:00 AM",
+                    "Sunday: 6:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.9191428,
+                35.2623736
+            ]
+        }
+    ]
+}

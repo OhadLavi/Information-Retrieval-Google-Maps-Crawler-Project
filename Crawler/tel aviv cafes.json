@@ -1,0 +1,2952 @@
+{
+    "search": {
+        "searchString": "tel aviv cafes",
+        "filters": {
+            "rating_range": {
+                "from": 3.5,
+                "to": 5
+            },
+            "minimum_amount_of_ratings": 57,
+            "opening_hours": {
+                "day": 6,
+                "from": "1300",
+                "to": "1400"
+            }
+        }
+    },
+    "amount_of_places": 30,
+    "places": [
+        {
+            "place_id": "ChIJK5zFUYdLHRURzLpv8RjKSwc",
+            "rating": 4.4,
+            "name": "Nahat Coffee",
+            "amount_of_ratings": 1761,
+            "address": "Dizengoff Square 1, Tel Aviv-Yafo, Israel",
+            "maps_url": "https://maps.google.com/?cid=525735989997451980",
+            "website_url": "https://www.nahatcoffee.com/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0745"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0745"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0745"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0745"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0745"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1730"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0745"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:45 AM – 7:00 PM",
+                    "Tuesday: 7:45 AM – 7:00 PM",
+                    "Wednesday: 7:45 AM – 7:00 PM",
+                    "Thursday: 7:45 AM – 7:00 PM",
+                    "Friday: 7:45 AM – 5:30 PM",
+                    "Saturday: 8:30 AM – 8:00 PM",
+                    "Sunday: 7:45 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.0783681,
+                34.7744406
+            ]
+        },
+        {
+            "place_id": "ChIJGagCnO5LHRURqXNcVN8plNs",
+            "rating": 4.3,
+            "name": "Cafe Zorik",
+            "amount_of_ratings": 3271,
+            "address": "Yehuda HaMakkabbi St 4א, Tel Aviv-Yafo, 6266905, Israel",
+            "phone_number": "03-604-8858",
+            "maps_url": "https://maps.google.com/?cid=15822317430029185961",
+            "website_url": "http://www.cafezorik.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0600"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0600"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 6:00 AM – 12:00 AM",
+                    "Tuesday: 6:00 AM – 12:00 AM",
+                    "Wednesday: 6:00 AM – 12:00 AM",
+                    "Thursday: 6:00 AM – 12:00 AM",
+                    "Friday: 6:00 AM – 12:00 AM",
+                    "Saturday: 6:00 AM – 12:00 AM",
+                    "Sunday: 6:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.09373,
+                34.78512719999999
+            ]
+        },
+        {
+            "place_id": "ChIJi1cByn1LHRURxLMG0vZfwfk",
+            "rating": 4.6,
+            "name": "Coffee Shop 51 / fifty-one",
+            "amount_of_ratings": 803,
+            "address": "Ahad Ha'Am St 51, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-551-5160",
+            "maps_url": "https://maps.google.com/?cid=17996771099639460804",
+            "website_url": "http://www.coffeeshop51.com/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 8:00 PM",
+                    "Tuesday: 7:30 AM – 8:00 PM",
+                    "Wednesday: 7:30 AM – 8:00 PM",
+                    "Thursday: 7:30 AM – 8:00 PM",
+                    "Friday: 7:30 AM – 4:00 PM",
+                    "Saturday: 8:00 AM – 8:00 PM",
+                    "Sunday: 7:30 AM – 8:00 PM"
+                ]
+            },
+            "location": [
+                32.0663736,
+                34.77645
+            ]
+        },
+        {
+            "place_id": "ChIJPXrV3IFMHRURoDIJFC4FWeU",
+            "rating": 4.8,
+            "name": "Cafe Annabelle",
+            "amount_of_ratings": 379,
+            "address": "King George St 26, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-909-2559",
+            "maps_url": "https://maps.google.com/?cid=16526246003075527328",
+            "website_url": "https://cafe-annabelle.business.site/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0615"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0615"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0615"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0615"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0615"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0615"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 6:15 AM – 7:00 PM",
+                    "Tuesday: 6:15 AM – 7:00 PM",
+                    "Wednesday: 6:15 AM – 7:00 PM",
+                    "Thursday: 6:15 AM – 7:00 PM",
+                    "Friday: 6:15 AM – 4:30 PM",
+                    "Saturday: 7:00 AM – 7:00 PM",
+                    "Sunday: 6:15 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.071986,
+                34.7737387
+            ]
+        },
+        {
+            "place_id": "ChIJl2HloH5NHRUR6b3SHQcImSU",
+            "rating": 4.9,
+            "name": "Sonder cafe Tel aviv",
+            "amount_of_ratings": 159,
+            "address": "Yishkon St 40, Tel Aviv-Yafo, Israel",
+            "phone_number": "052-653-1061",
+            "maps_url": "https://maps.google.com/?cid=2709205477498207721",
+            "website_url": "https://segevyaron1.wixsite.com/mysite",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2345"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 11:45 PM",
+                    "Tuesday: 7:30 AM – 11:45 PM",
+                    "Wednesday: 7:30 AM – 11:45 PM",
+                    "Thursday: 7:30 AM – 2:00 AM",
+                    "Friday: 7:30 AM – 11:45 PM",
+                    "Saturday: 9:00 AM – 1:00 AM",
+                    "Sunday: 7:30 AM – 11:45 PM"
+                ]
+            },
+            "location": [
+                32.0683607,
+                34.7685669
+            ]
+        },
+        {
+            "place_id": "ChIJ-QkE8YlLHRURlqqPg1da7W8",
+            "rating": 4.7,
+            "name": "Origem Fresh Coffee",
+            "amount_of_ratings": 1148,
+            "address": "Dizengoff St 203, Tel Aviv-Yafo, 6311501, Israel",
+            "phone_number": "03-922-3111",
+            "maps_url": "https://maps.google.com/?cid=8065201839606311574",
+            "website_url": "http://www.origem.co.il/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0730"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 7:00 PM",
+                    "Tuesday: 7:30 AM – 7:00 PM",
+                    "Wednesday: 7:30 AM – 7:00 PM",
+                    "Thursday: 7:30 AM – 7:00 PM",
+                    "Friday: 7:30 AM – 4:00 PM",
+                    "Saturday: 7:30 AM – 4:00 PM",
+                    "Sunday: 7:30 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.087641,
+                34.7749821
+            ]
+        },
+        {
+            "place_id": "ChIJRUDv0PJLHRURkX3nLaDVRxs",
+            "rating": 4.4,
+            "name": "Castel",
+            "amount_of_ratings": 779,
+            "address": "Shlomo Ibn Gabirol St 151, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-554-3255",
+            "maps_url": "https://maps.google.com/?cid=1965774646312140177",
+            "website_url": "http://www.cafecastel.com/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0730"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 10:30 PM",
+                    "Tuesday: 7:00 AM – 10:30 PM",
+                    "Wednesday: 7:00 AM – 10:30 PM",
+                    "Thursday: 7:00 AM – 10:30 PM",
+                    "Friday: 7:00 AM – 6:30 PM",
+                    "Saturday: 7:30 AM – 10:30 PM",
+                    "Sunday: 7:00 AM – 10:30 PM"
+                ]
+            },
+            "location": [
+                32.0906802,
+                34.7826725
+            ]
+        },
+        {
+            "place_id": "ChIJHcHLTolLHRUR8hFMfBGi4pU",
+            "rating": 4.5,
+            "name": "איזי קפה ארלוזורוב Eazy cafe Arlozorov",
+            "amount_of_ratings": 1443,
+            "address": "Arlozorov St 76, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-924-4100",
+            "maps_url": "https://maps.google.com/?cid=10800373052371374578",
+            "website_url": "http://www.eazycafe.co.il/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 6:30 AM – 8:00 PM",
+                    "Tuesday: 6:30 AM – 8:00 PM",
+                    "Wednesday: 6:30 AM – 8:00 PM",
+                    "Thursday: 6:30 AM – 8:00 PM",
+                    "Friday: 6:30 AM – 4:00 PM",
+                    "Saturday: 7:00 AM – 8:00 PM",
+                    "Sunday: 6:30 AM – 8:00 PM"
+                ]
+            },
+            "location": [
+                32.0857811,
+                34.7791197
+            ]
+        },
+        {
+            "place_id": "ChIJnb3plqJLHRURfloP1Dn5eUo",
+            "rating": 4.5,
+            "name": "Buti & Co.",
+            "amount_of_ratings": 450,
+            "address": "Dizengoff Square 4, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-777-5188",
+            "maps_url": "https://maps.google.com/?cid=5366594457754884734",
+            "website_url": "https://www.butiandco.com/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 10:00 PM",
+                    "Tuesday: 7:30 AM – 10:00 PM",
+                    "Wednesday: 7:30 AM – 10:00 PM",
+                    "Thursday: 7:30 AM – 10:00 PM",
+                    "Friday: 7:30 AM – 5:00 PM",
+                    "Saturday: 8:00 AM – 11:00 PM",
+                    "Sunday: 7:30 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.0776221,
+                34.774556
+            ]
+        },
+        {
+            "place_id": "ChIJKa6Y7bhNHRURh8xeuNSPP7s",
+            "rating": 4.7,
+            "name": "p.o.c café",
+            "amount_of_ratings": 527,
+            "address": "48 Kfar Gilaadi, Tel Aviv-Yafo, 6609248, Israel",
+            "maps_url": "https://maps.google.com/?cid=13492661152414354567",
+            "website_url": "http://shorturl.at/lkBKM",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 9:00 PM",
+                    "Tuesday: 7:00 AM – 9:00 PM",
+                    "Wednesday: 7:00 AM – 9:00 PM",
+                    "Thursday: 7:00 AM – 9:00 PM",
+                    "Friday: 7:00 AM – 9:00 PM",
+                    "Saturday: 7:00 AM – 9:00 PM",
+                    "Sunday: 7:00 AM – 9:00 PM"
+                ]
+            },
+            "location": [
+                32.0573445,
+                34.7703167
+            ]
+        },
+        {
+            "place_id": "ChIJNVQ84YFLHRURqzjMQp3RVGY",
+            "rating": 4.1,
+            "name": "Nehama Vahetzi",
+            "amount_of_ratings": 2557,
+            "address": "Ahad Ha'Am St 144, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-685-2326",
+            "maps_url": "https://maps.google.com/?cid=7373748963273095339",
+            "website_url": "https://m.facebook.com/nechamavahetzi/?_rdr",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0130"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 1:00 AM",
+                    "Tuesday: 7:30 AM – 1:00 AM",
+                    "Wednesday: 7:30 AM – 1:00 AM",
+                    "Thursday: 7:30 AM – 1:30 AM",
+                    "Friday: 7:30 AM – 7:00 PM",
+                    "Saturday: 9:00 AM – 1:00 AM",
+                    "Sunday: 7:30 AM – 1:00 AM"
+                ]
+            },
+            "location": [
+                32.0720562,
+                34.7786152
+            ]
+        },
+        {
+            "place_id": "ChIJY4mxfYRMHRUR4Hx_R1ncsP8",
+            "rating": 4.7,
+            "name": "Mae Café",
+            "amount_of_ratings": 383,
+            "address": "Shlomo Ibn Gabirol St 98, Tel Aviv-Yafo, 6404624, Israel",
+            "phone_number": "03-510-2267",
+            "maps_url": "https://maps.google.com/?cid=18424468351582436576",
+            "website_url": "https://www.facebook.com/MaeCafe",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 6:00 PM",
+                    "Tuesday: 7:30 AM – 6:00 PM",
+                    "Wednesday: 7:30 AM – 6:00 PM",
+                    "Thursday: 7:30 AM – 6:00 PM",
+                    "Friday: 7:30 AM – 4:00 PM",
+                    "Saturday: 10:00 AM – 4:00 PM",
+                    "Sunday: 7:30 AM – 6:00 PM"
+                ]
+            },
+            "location": [
+                32.0833188,
+                34.7815636
+            ]
+        },
+        {
+            "place_id": "ChIJm4T00olLHRURMIXHaAjtS34",
+            "rating": 4.4,
+            "name": "Dizengoff Cafe",
+            "amount_of_ratings": 2086,
+            "address": "Dizengoff St 190, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-629-2408",
+            "maps_url": "https://maps.google.com/?cid=9100628092405646640",
+            "website_url": "http://www.rol.co.il/sites/dizengof-cafe/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 12:00 AM",
+                    "Tuesday: 8:00 AM – 12:00 AM",
+                    "Wednesday: 8:00 AM – 12:00 AM",
+                    "Thursday: 8:00 AM – 12:00 AM",
+                    "Friday: 8:00 AM – 12:00 AM",
+                    "Saturday: 8:00 AM – 12:00 AM",
+                    "Sunday: 8:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.0858062,
+                34.7747191
+            ]
+        },
+        {
+            "place_id": "ChIJwznG3YFLHRURePvGIywZOfo",
+            "rating": 4.5,
+            "name": "We Like You Too",
+            "amount_of_ratings": 1068,
+            "address": "Ben Tsiyon Blvd 34, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-528-7570",
+            "maps_url": "https://maps.google.com/?cid=18030470260523989880",
+            "website_url": "https://www.facebook.com/Cafe.Habima/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 10:00 PM",
+                    "Tuesday: 7:30 AM – 10:00 PM",
+                    "Wednesday: 7:30 AM – 10:00 PM",
+                    "Thursday: 7:30 AM – 10:00 PM",
+                    "Friday: 7:30 AM – 6:00 PM",
+                    "Saturday: 8:00 AM – 8:00 PM",
+                    "Sunday: 7:30 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.0725277,
+                34.7782433
+            ]
+        },
+        {
+            "place_id": "ChIJNx-8HpRLHRURFeqtPyRDLAI",
+            "rating": 4.3,
+            "name": "Henrietta Café",
+            "amount_of_ratings": 1623,
+            "address": "Arlozorov St 186, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-691-1715",
+            "maps_url": "https://maps.google.com/?cid=156573910017370645",
+            "website_url": "http://www.caffehenrietta.com/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 4:00 PM",
+                    "Saturday: 8:30 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.0828935,
+                34.791633
+            ]
+        },
+        {
+            "place_id": "ChIJNzASIIFLHRURyZWpmaGkCdA",
+            "rating": 4.1,
+            "name": "The Streets",
+            "amount_of_ratings": 2063,
+            "address": "King George St 70, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-620-1070",
+            "maps_url": "https://maps.google.com/?cid=14990693848654124489",
+            "website_url": "http://thestreets.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 11:00 PM",
+                    "Tuesday: 7:00 AM – 11:00 PM",
+                    "Wednesday: 7:00 AM – 11:00 PM",
+                    "Thursday: 7:00 AM – 11:00 PM",
+                    "Friday: 7:00 AM – 11:00 PM",
+                    "Saturday: 7:00 AM – 11:00 PM",
+                    "Sunday: 7:00 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.0760259,
+                34.7769562
+            ]
+        },
+        {
+            "place_id": "ChIJ48kQMxlNHRURNUtSfeMjjbg",
+            "rating": 4.1,
+            "name": "Assemblage Cafe",
+            "amount_of_ratings": 149,
+            "address": "Allenby St 48, Tel Aviv-Yafo, 6382202, Israel",
+            "phone_number": "077-706-6760",
+            "maps_url": "https://maps.google.com/?cid=13298324734662036277",
+            "website_url": "https://www.instagram.com/assemblagetlv/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 11:30 PM",
+                    "Tuesday: 8:00 AM – 11:30 PM",
+                    "Wednesday: 8:00 AM – 11:30 PM",
+                    "Thursday: 8:00 AM – 11:30 PM",
+                    "Friday: 8:00 AM – 11:30 PM",
+                    "Saturday: 8:00 AM – 11:30 PM",
+                    "Sunday: 8:00 AM – 11:30 PM"
+                ]
+            },
+            "location": [
+                32.0715412,
+                34.7693598
+            ]
+        },
+        {
+            "place_id": "ChIJe4s1tgdNHRURulN1Rot6LGM",
+            "rating": 4.6,
+            "name": "Cafe Trumpeldor",
+            "amount_of_ratings": 150,
+            "address": "Trumpeldor St 6, Tel Aviv-Yafo, Israel",
+            "maps_url": "https://maps.google.com/?cid=7146221447331271610",
+            "website_url": "https://renomahotel.com/he/blog/cafe/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 4:30 PM",
+                    "Tuesday: 8:00 AM – 4:30 PM",
+                    "Wednesday: 8:00 AM – 4:30 PM",
+                    "Thursday: 8:00 AM – 4:30 PM",
+                    "Friday: 8:30 AM – 5:00 PM",
+                    "Saturday: 8:30 AM – 5:00 PM",
+                    "Sunday: 8:00 AM – 4:30 PM"
+                ]
+            },
+            "location": [
+                32.0754351,
+                34.766467
+            ]
+        },
+        {
+            "place_id": "ChIJ1QWEK_VLHRURu0TRXbwpNwU",
+            "rating": 4.7,
+            "name": "Fortune Coffee Shop",
+            "amount_of_ratings": 181,
+            "address": "Dizengoff St 280, Tel Aviv-Yafo, 6311719, Israel",
+            "phone_number": "054-690-6549",
+            "maps_url": "https://maps.google.com/?cid=375814982913311931",
+            "website_url": "https://israelbusinessguide.com/catalog/tel-aviv/fortune_coffee_shop--_/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 7:00 PM",
+                    "Tuesday: 8:00 AM – 7:00 PM",
+                    "Wednesday: 8:00 AM – 7:00 PM",
+                    "Thursday: 8:00 AM – 7:00 PM",
+                    "Friday: 8:00 AM – 3:00 PM",
+                    "Saturday: 8:30 AM – 6:00 PM",
+                    "Sunday: 8:00 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.09267239999999,
+                34.7765984
+            ]
+        },
+        {
+            "place_id": "ChIJF9lnj4ZLHRURRYPqhCf7sdY",
+            "rating": 4.2,
+            "name": "Café Masaryk",
+            "amount_of_ratings": 449,
+            "address": "Sderot Masaryk 12, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-527-2411",
+            "maps_url": "https://maps.google.com/?cid=15470422342146622277",
+            "website_url": "https://www.rest.co.il/rest/39327530/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 7:00 PM",
+                    "Tuesday: 8:00 AM – 7:00 PM",
+                    "Wednesday: 8:00 AM – 7:00 PM",
+                    "Thursday: 8:00 AM – 7:00 PM",
+                    "Friday: 8:00 AM – 5:00 PM",
+                    "Saturday: 9:00 AM – 4:00 PM",
+                    "Sunday: 8:00 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.0788235,
+                34.7790525
+            ]
+        },
+        {
+            "place_id": "ChIJH8kam1RJHRURoccAKTlvK28",
+            "rating": 4.9,
+            "name": "Chacho's Cafe",
+            "amount_of_ratings": 133,
+            "address": "Ge'ula St 51, Tel Aviv-Yafo, Israel",
+            "phone_number": "054-495-3763",
+            "maps_url": "https://maps.google.com/?cid=8010618653500295073",
+            "website_url": "https://www.instagram.com/chachos.cafe/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 7:00 PM",
+                    "Tuesday: 7:00 AM – 7:00 PM",
+                    "Wednesday: 7:00 AM – 7:00 PM",
+                    "Thursday: 7:00 AM – 7:00 PM",
+                    "Friday: 7:00 AM – 5:00 PM",
+                    "Saturday: 8:00 AM – 7:00 PM",
+                    "Sunday: 7:00 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.0711824,
+                34.7695581
+            ]
+        },
+        {
+            "place_id": "ChIJY0EjD35NHRURyrXUZ_C0k9c",
+            "rating": 4.6,
+            "name": "Ada Hanina Cafe",
+            "amount_of_ratings": 478,
+            "address": "Rabi Khanina St 9, Tel Aviv-Yafo, 6813737, Israel",
+            "maps_url": "https://maps.google.com/?cid=15533958484358116810",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 7:00 PM",
+                    "Tuesday: 7:30 AM – 7:00 PM",
+                    "Wednesday: 7:30 AM – 7:00 PM",
+                    "Thursday: 7:30 AM – 8:00 PM",
+                    "Friday: 7:30 AM – 6:00 PM",
+                    "Saturday: 8:30 AM – 8:00 PM",
+                    "Sunday: 7:30 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.0522738,
+                34.7555937
+            ]
+        },
+        {
+            "place_id": "ChIJIzCrjp1MHRUR0wCrRO8i6P4",
+            "rating": 4.5,
+            "name": "Vista Coffee",
+            "amount_of_ratings": 334,
+            "address": "Retzif HaAliya HaShniya St 48, Tel Aviv-Yafo, 6812924, Israel",
+            "maps_url": "https://maps.google.com/?cid=18367969491275153619",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 10:00 PM",
+                    "Saturday: 7:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.0552609,
+                34.751823
+            ]
+        },
+        {
+            "place_id": "ChIJuRWIcXlLHRURpN_OV18qGkY",
+            "rating": 4.3,
+            "name": "Tachtit Café",
+            "amount_of_ratings": 2211,
+            "address": "Lincoln St 9, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-561-8759",
+            "maps_url": "https://maps.google.com/?cid=5051396521032867748",
+            "website_url": "http://tachtit.com/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:00 AM – 12:00 AM",
+                    "Tuesday: 7:00 AM – 12:00 AM",
+                    "Wednesday: 7:00 AM – 12:00 AM",
+                    "Thursday: 7:00 AM – 12:00 AM",
+                    "Friday: 7:00 AM – 12:00 AM",
+                    "Saturday: 7:00 AM – 12:00 AM",
+                    "Sunday: 7:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.0670307,
+                34.78182330000001
+            ]
+        },
+        {
+            "place_id": "ChIJB6A7dJtMHRURuo9ma0SIwks",
+            "rating": 4.3,
+            "name": "Café Alma - Neve Tzedek",
+            "amount_of_ratings": 1022,
+            "address": "Shabazi St 55, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-516-8793",
+            "maps_url": "https://maps.google.com/?cid=5459075525767499706",
+            "website_url": "https://www.facebook.com/alma.neve.tzedek/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 10:00 PM",
+                    "Tuesday: 9:00 AM – 10:00 PM",
+                    "Wednesday: 9:00 AM – 10:00 PM",
+                    "Thursday: 9:00 AM – 10:00 PM",
+                    "Friday: 9:00 AM – 4:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.063158,
+                34.767465
+            ]
+        },
+        {
+            "place_id": "ChIJgZDNnw1NHRURgotyzc99OEw",
+            "rating": 4.5,
+            "name": "ISLA - COFFEE THEN LIFE",
+            "amount_of_ratings": 178,
+            "address": "Montefiore St 27, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-774-0222",
+            "maps_url": "https://maps.google.com/?cid=5492278077036858242",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 10:00 PM",
+                    "Tuesday: 8:00 AM – 10:00 PM",
+                    "Wednesday: 8:00 AM – 10:00 PM",
+                    "Thursday: 8:00 AM – 10:00 PM",
+                    "Friday: 8:00 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 8:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.0656684,
+                34.7728295
+            ]
+        },
+        {
+            "place_id": "ChIJdZ8ZwqJLHRURrI_bNwIa1hE",
+            "rating": 4.2,
+            "name": "Café Jolie",
+            "amount_of_ratings": 1467,
+            "address": "Nakhalat Yitskhak St 18, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-609-2103",
+            "maps_url": "https://maps.google.com/?cid=1285243340490248108",
+            "website_url": "http://cafejolie.business.site/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 11:00 PM",
+                    "Tuesday: 9:00 AM – 11:00 PM",
+                    "Wednesday: 9:00 AM – 11:00 PM",
+                    "Thursday: 9:00 AM – 11:00 PM",
+                    "Friday: 8:00 AM – 11:00 PM",
+                    "Saturday: 11:00 AM – 11:00 PM",
+                    "Sunday: 9:00 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.0741745,
+                34.7978635
+            ]
+        },
+        {
+            "place_id": "ChIJFUzql2lLHRUR586y5uj5ros",
+            "rating": 4.7,
+            "name": "Jera",
+            "amount_of_ratings": 327,
+            "address": "Shlomo Ibn Gabirol St 54, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-547-7472",
+            "maps_url": "https://maps.google.com/?cid=10065256995917844199",
+            "website_url": "https://www.jera-coffee.co.il/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 7:00 PM",
+                    "Tuesday: 8:00 AM – 7:00 PM",
+                    "Wednesday: 8:00 AM – 7:00 PM",
+                    "Thursday: 8:00 AM – 7:00 PM",
+                    "Friday: 8:00 AM – 4:00 PM",
+                    "Saturday: 8:00 AM – 6:00 PM",
+                    "Sunday: 8:00 AM – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.0781189,
+                34.781459
+            ]
+        },
+        {
+            "place_id": "ChIJ6YBJEINMHRUR65MgpA3_huI",
+            "rating": 4.4,
+            "name": "Birenbaum Cafe",
+            "amount_of_ratings": 646,
+            "address": "Nahalat Binyamin St 31, Tel Aviv-Yafo, Israel",
+            "phone_number": "03-560-0066",
+            "maps_url": "https://maps.google.com/?cid=16323014333504197611",
+            "website_url": "https://eatwell.co.il/%D7%A7%D7%A4%D7%94-%D7%91%D7%99%D7%A8%D7%A0%D7%91%D7%90%D7%95%D7%9D/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 3:00 PM",
+                    "Tuesday: 8:00 AM – 3:00 PM",
+                    "Wednesday: 8:00 AM – 3:00 PM",
+                    "Thursday: 8:00 AM – 3:00 PM, 6:00 PM – 12:00 AM",
+                    "Friday: 8:00 AM – 3:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 8:00 AM – 3:00 PM"
+                ]
+            },
+            "location": [
+                32.06624,
+                34.77055939999999
+            ]
+        },
+        {
+            "place_id": "ChIJuUtJd7pMHRURL7mMOZWIqyo",
+            "rating": 4.6,
+            "name": "Michelangelo Café",
+            "amount_of_ratings": 1078,
+            "address": "Ben Teradion St 2, Tel Aviv-Yafo, Israel",
+            "phone_number": "058-396-3077",
+            "maps_url": "https://maps.google.com/?cid=3074701345107523887",
+            "website_url": "https://www.facebook.com/michaelangelocafe/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 10:00 PM",
+                    "Tuesday: 8:00 AM – 10:00 PM",
+                    "Wednesday: 8:00 AM – 10:00 PM",
+                    "Thursday: 8:00 AM – 10:00 PM",
+                    "Friday: 8:00 AM – 4:00 PM",
+                    "Saturday: 8:00 AM – 4:00 PM",
+                    "Sunday: 8:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.052325,
+                34.75865509999999
+            ]
+        }
+    ]
+}

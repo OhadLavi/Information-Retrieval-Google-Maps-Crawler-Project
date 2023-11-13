@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/vendor/
+
+# Environment variables
+.env
