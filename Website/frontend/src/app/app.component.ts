@@ -123,7 +123,7 @@ export class AppComponent implements OnInit {
       let searchStringValid = true;
 
       if (!this.searchString) {
-          this.errorSearchString = 'Please enter a search string';
+          this.errorSearchString = 'Please enter a search string.';
           searchStringValid = false;
           this.isSearching = false;
       }
@@ -169,7 +169,7 @@ export class AppComponent implements OnInit {
       this.errorRating = '';
       if (this.from > this.to) {
           this.valid = false;
-          this.errorRating = "From must be less than To";
+          this.errorRating = "From must be less than To.";
           this.isSearching = false;
           return false;
       }
@@ -220,7 +220,7 @@ export class AppComponent implements OnInit {
           return true;
       }
 
-      this.errorOpeningHours = "Please fill all closing hours fields";
+      this.errorOpeningHours = "Please fill all closing hours fields.";
       return false;
   }
 

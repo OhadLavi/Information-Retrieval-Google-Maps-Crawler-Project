@@ -6,6 +6,13 @@
 
 html {
     --mat-select-panel-background-color: #7784a2 !important;
+    --mat-select-panel-border-color: transparent !important;
+}
+
+/* Override any Material Design border variables */
+:root {
+    --mdc-menu-surface-fill-color: #7784a2 !important;
+    --mdc-menu-surface-container-shape: 0px !important;
 }
 
 .mainWrapper {
@@ -18,6 +25,89 @@ html {
 
 .ng-trigger-transformPanel, .mat-mdc-select-panel, .cdk-overlay-pane:not(.mat-mdc-select-panel-above) div.mat-mdc-select-panel, div.mat-mdc-select-panel, input:-internal-autofill-selected, .mat-mdc-option:focus.mdc-list-item, .mat-mdc-option.mat-mdc-option-active.mdc-list-item, .mat-mdc-option.mdc-list-item, div.mat-mdc-select-panel {
     background-color: #7784a2 !important;
+}
+
+/* Remove white strips/borders from select panel */
+.mat-mdc-select-panel,
+.mdc-menu-surface,
+.mat-mdc-select-panel.mdc-menu-surface,
+.mat-mdc-select-panel .mdc-list,
+.cdk-overlay-pane .mat-mdc-select-panel,
+.cdk-overlay-pane .mdc-menu-surface,
+.ng-trigger-transformPanel {
+    border: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Remove borders from first and last options */
+.mat-mdc-option:first-child,
+.mat-mdc-option:first-child.mdc-list-item {
+    border-top: none !important;
+    border-top-width: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.mat-mdc-option:last-child,
+.mat-mdc-option:last-child.mdc-list-item {
+    border-bottom: none !important;
+    border-bottom-width: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Remove all borders from mat-option elements */
+.mat-mdc-option,
+.mat-mdc-option.mdc-list-item {
+    border: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+/* Remove any dividers or separators */
+.mat-mdc-select-panel .mdc-list-item__primary-text::before,
+.mat-mdc-select-panel .mdc-list-item__primary-text::after,
+.mat-mdc-select-panel::before,
+.mat-mdc-select-panel::after {
+    display: none !important;
+    content: none !important;
+}
+
+/* Ensure the panel container has no borders */
+.cdk-overlay-pane .mat-mdc-select-panel {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Remove any white borders from the list container */
+.mat-mdc-select-panel .mdc-list,
+.mdc-menu-surface .mdc-list {
+    border-top: none !important;
+    border-bottom: none !important;
+    border: none !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Target the mdc-menu-surface specifically to remove all borders */
+.mdc-menu-surface::before,
+.mdc-menu-surface::after,
+.mat-mdc-select-panel::before,
+.mat-mdc-select-panel::after {
+    display: none !important;
+    content: none !important;
+    border: none !important;
 }
 
 .search_string_container {

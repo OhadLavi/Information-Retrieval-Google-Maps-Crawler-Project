@@ -6,6 +6,126 @@ body { margin: 0; font-family: Arial, sans-serif !important; background-color: #
 html, body { height: 100%; }
 body { margin: 0; font-family: Arial, sans-serif !important; }
 
+html {
+    --mat-select-panel-background-color: #7784a2 !important;
+    --mat-select-panel-border-color: transparent !important;
+}
+
+/* Override any Material Design border variables */
+:root {
+    --mdc-menu-surface-fill-color: #7784a2 !important;
+    --mdc-menu-surface-container-shape: 0px !important;
+}
+
 .mat-mdc-text-field-wrapper {
     background-color: #7784a2 !important;
+}
+
+/* Remove white strips from Angular Material select panels */
+.mat-mdc-select-panel,
+.mdc-menu-surface,
+.mat-mdc-select-panel.mdc-menu-surface,
+.mat-mdc-select-panel .mdc-list,
+.cdk-overlay-pane .mat-mdc-select-panel,
+.cdk-overlay-pane .mdc-menu-surface,
+.ng-trigger-transformPanel {
+    border: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.mat-mdc-option:first-child,
+.mat-mdc-option:first-child.mdc-list-item {
+    border-top: none !important;
+    border-top-width: 0 !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.mat-mdc-option:last-child,
+.mat-mdc-option:last-child.mdc-list-item {
+    border-bottom: none !important;
+    border-bottom-width: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Remove all borders from mat-option elements */
+.mat-mdc-option,
+.mat-mdc-option.mdc-list-item {
+    border: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.mat-mdc-select-panel .mdc-list,
+.mdc-menu-surface .mdc-list {
+    border-top: none !important;
+    border-bottom: none !important;
+    border: none !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Remove pseudo-elements that might create white lines */
+.mdc-menu-surface::before,
+.mdc-menu-surface::after,
+.mat-mdc-select-panel::before,
+.mat-mdc-select-panel::after {
+    display: none !important;
+    content: none !important;
+    border: none !important;
+}
+
+.cdk-overlay-pane .mat-mdc-select-panel {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Additional fixes for MDC list wrapper */
+.mat-mdc-select-panel .mdc-list {
+    min-height: auto !important;
+}
+
+/* Remove any default styling that creates white lines */
+.mat-mdc-select-panel .mdc-list-group__subheader {
+    display: none !important;
+}
+
+/* Ensure no white background shows through */
+.mat-mdc-select-panel,
+.mat-mdc-select-panel * {
+    background-clip: padding-box !important;
+}
+
+/* Additional deep selectors to override Material defaults */
+.mdc-menu-surface,
+.mat-mdc-select-panel.mdc-menu-surface {
+    border: none !important;
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+    outline: none !important;
+    border-style: none !important;
+}
+
+/* Target the role listbox container directly */
+[role="listbox"].mat-mdc-select-panel {
+    border: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+/* Remove any styling from the cdk-overlay container */
+.cdk-overlay-pane {
+    border: none !important;
+}
+
+.cdk-overlay-pane > div {
+    border: none !important;
 }
